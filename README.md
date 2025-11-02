@@ -43,6 +43,6 @@ Implement a basic KubeArmor zero-trust security policy for the deployed Wisecow 
 
 ---
 
-## 🧩 Repository Structure
+##  Repository Structure
 
 
