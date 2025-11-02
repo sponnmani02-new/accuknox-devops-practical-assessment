@@ -4,7 +4,7 @@ This repository contains the completed practical assessment for the **Accuknox D
 
 ---
 
-## 🚀 Problem Statement 1 – Containerisation and Deployment of Wisecow Application
+##  Problem Statement 1 – Containerisation and Deployment of Wisecow Application
 
 **Objective:**  
 Containerize and deploy the [Wisecow App](https://github.com/nyrahul/wisecow) on a Kubernetes cluster (e.g., Minikube/Kind) with TLS support and CI/CD automation.
@@ -20,7 +20,7 @@ Containerize and deploy the [Wisecow App](https://github.com/nyrahul/wisecow) on
 
 ---
 
-## ⚙️ Problem Statement 2 – Automation Script (Bash/Python)
+##  Problem Statement 2 – Automation Script (Bash/Python)
 
 Two scripts are included:
 
@@ -32,7 +32,7 @@ Two scripts are included:
 
 ---
 
-## 🛡️ Problem Statement 3 – KubeArmor Zero-Trust Policy
+##  Problem Statement 3 – KubeArmor Zero-Trust Policy
 
 **Objective:**  
 Implement a basic KubeArmor zero-trust security policy for the deployed Wisecow app.
